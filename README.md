@@ -28,12 +28,6 @@ streamlit run app.py
 
 ---
 
-### 6️⃣ Screenshots (optional but recommended)
-```markdown
-## Screenshots
-![Chatbot UI](screenshots/chat_ui.png)
-![Backend running](screenshots/backend_terminal.png)
-
 ## Conclusion
 This project demonstrates the integration of a modern LLM API into a full-stack Python application with a clean frontend interface and a robust backend API. It showcases real-time AI interactions and modular software engineering practices.
 
